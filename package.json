@@ -1,26 +1,19 @@
 {
-  "name": "three-fbxloader-offical",
+  "name": "three_fbxloader_esg",
   "version": "1.0.0",
-  "homepage": "https://github.com/cs64188/three-fbxloader",
-  "description": "Threejs fbxload with offical apply 'inflate.min.js' its fluent",
+  "description": "[THREE.FBXLoader](https://threejs.org/examples/js/loaders/FBXLoader.js) Threejs fbxload with offical apply 'inflate.min.js' its fluent",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "peerDependencies": {
-    "three": ">= 0.91"
-  },
-  "keywords": [
-    "fbxloader",
-    "fbx",
-    "three-fbxloader",
-    "threejs",
-    "three.js"
-  ],
-  "author": "tomyl",
-  "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@bitbucket.org/esgstudio/three_fbxloader_offical.git"
-  }
+    "url": "git+https://github.com/Endemol/three_fbxloader_esg.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Endemol/three_fbxloader_esg/issues"
+  },
+  "homepage": "https://github.com/Endemol/three_fbxloader_esg#readme"
 }
